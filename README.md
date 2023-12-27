@@ -28,8 +28,8 @@ const sunSign = require('sun-sign');
 
 The required parameters are month and day, which can be in string or number format.
 
-```JavaScript
-const sunSign = (month, day) => {
+```TypeScript
+const sunSign = (month: string | number, day: string | number) => {
   return {sign: sign, element: element}
 }
 
