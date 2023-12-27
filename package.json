@@ -1,8 +1,8 @@
 {
   "name": "sun-sign",
-  "version": "1.0.3",
-  "description": "A package that calculates the zodiac sign corresponding to a given date of birth.",
-  "main": "index.js",
+  "version": "1.0.4",
+  "description": "A package that gets the zodiac sign corresponding to a given date of birth.",
+  "main": "index.ts",
   "author": {
     "name": "Kagwe Muchane",
     "email": "contact@kagwave.com",
